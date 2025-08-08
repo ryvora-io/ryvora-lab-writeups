@@ -7,8 +7,6 @@
 <p><b>A collection of open-source cybersecurity labs, built for hands-on learning and real-world experience.</b></p>
 
 <img src="https://img.shields.io/badge/Clone-ready-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fork-to-contribute-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Built_with_MD_for_hackers-lightgrey?style=for-the-badge" />
 
 </div>
 
@@ -16,7 +14,7 @@
 
 ## 🚀 What is Ryvora Labs?
 
-Ryvora Labs is a **community-driven** repo for documenting your blue team (and eventually red team) learning journey.  
+Ryvora Labs is a **community-driven** repo for documenting your cybersecurity learning journey.  
 It’s built for cybersecurity learners to:
 
 - 🔍 Investigate real-world scenarios
